@@ -1,0 +1,6 @@
+name: tanahkubur
+main: me.syntaxable.minecraft.DeathChests.DeathChestPlugin
+version: 1.0
+author: syntaxable aka hafizimovik
+description: nanti mati ada kubur 
+commands: 

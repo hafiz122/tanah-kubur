@@ -1,0 +1,27 @@
+# tanahkubur configuration
+# version 1.0
+
+chestable_blocks:
+- 'WATER'                 # water
+- 'LAVA'                  # lava
+- 'WHEAT'                 # wheat crops
+- 'POTATOES'              # potato crops
+- 'CARROTS'               # carrot crops
+- 'BEETROOTS'             # beetroot crops
+- 'PUMPKIN_STEM'          # pumpkin stem w/o pumpkin
+- 'ATTACHED_PUMPKIN_STEM' # pumpkin stem w/ pumpkin
+- 'MELON_STEM'            # melon stem w/o melon
+- 'ATTACHED_MELON_STEM'   # melon stem w/ melon
+- 'SUGAR_CANE'            # sugar cane plants
+- 'NETHER_WART'           # netherwart
+- 'KELP_PLANT'            # "stem" of pelp plants
+- 'KELP'                  # top of kelp plants
+- 'SEAGRASS'              # 1-block sea grass
+- 'TALL_SEAGRASS'         # 2-block sea grass
+- 'GRASS'                 # 1-block grass (on land)
+- 'TALL_GRASS'            # 2-block grass (on land)
+- 'FERN'                  # 1-block ferns
+- 'LARGE_FERN'            # 2-block ferns
+
+delay: 5                  # mumber of ticks before spawning chests
+location_message: true    # tell players where they died.
